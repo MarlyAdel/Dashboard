@@ -6,7 +6,7 @@ import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } 
 import Dashboard from './Pages/Dashboard/Dashboard.jsx'
 import Team from './Pages/Team/Team.jsx'
 import Contacts from './Pages/Contacts/Contacts.jsx'
-import Invoices from './Pages/Invoices/invoices.jsx'
+import Invoices from './Pages/Invoices/Invoices.jsx'
 import Form from './Pages/Form/Form.jsx'
 import Calender from './Pages/Calender/Calender.jsx'
 import Faq from './Pages/Faq/Faq.jsx'
