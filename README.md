@@ -14,7 +14,7 @@ A modern and responsive **Dashboard Web Application** built with **React** and *
 
 # 🛠 Tech Stack  
 - **Frontend:** React.js  
-- **UI Framework:** Material UI (MUI v5)  
+- **UI Framework:** Material UI
 - **Charts:** Nivo  
 - **Calendar:** FullCalendar  
 - **Deployment:** Vercel  
